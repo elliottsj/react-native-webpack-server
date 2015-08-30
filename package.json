@@ -29,7 +29,7 @@
     "README.md"
   ],
   "peerDependencies": {
-    "react-hot-loader": ">=1.2.4",
+    "react-hot-loader": ">=1.2.4 || >=2.0.0-alpha",
     "webpack": ">=1.8.4",
     "webpack-dev-server": ">=1.8.0"
   },
